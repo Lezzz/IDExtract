@@ -41,7 +41,7 @@ brew install tesseract-lang
 
 1. **Launch the application**:
 ```bash
-python id_card_processor.py
+python extract.py
 ```
 
 2. **Choose processing method**:
