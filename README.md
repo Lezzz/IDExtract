@@ -14,15 +14,7 @@ This application automates the processing of Romanian ID cards (buletine), extra
 
 2. **Install required Python packages**:
 ```bash
-pip install pillow==10.2.0
-pip install pytesseract==0.3.10
-pip install pandas==2.2.0
-pip install openpyxl==3.1.2
-pip install requests==2.31.0
-pip install tk==0.1.0
-pip install numpy==1.26.3
-pip install opencv-python==4.9.0.80
-pip install openai==1.31.0
+pip install pillow pytesseract pandas openpyxl
 ```
 
 3. **Install Tesseract OCR** (only needed if using Tesseract method):

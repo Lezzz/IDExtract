@@ -16,7 +16,7 @@ import io
 class IDCardProcessor:
     def __init__(self, root):
         self.root = root
-        self.root.title("ID Card OCR Processor")
+        self.root.title("Procesator de buletine")
         self.root.geometry("700x500")
         
         # Variables
